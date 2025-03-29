@@ -20,3 +20,5 @@ The most goofiest mod menu
 	Pee
 	Up And Down
 	BoxESP
+
+# WE ARE NOT RESPONIBLE FOR ANY BANS, USE AT YOUR OUN RISK!
