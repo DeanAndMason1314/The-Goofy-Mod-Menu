@@ -14,8 +14,6 @@ The most goofiest mod menu
 	GodSpeed
 	GhostMonke
 	Fly
-	PBBVName (UNTESTED)
-	Punch (UNTESTED)
 	BugOrbit
 	Pee (CS)
 	Up And Down
