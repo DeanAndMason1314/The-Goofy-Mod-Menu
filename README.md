@@ -17,8 +17,13 @@ The most goofiest mod menu
 	PBBVName (UNTESTED)
 	Punch (UNTESTED)
 	BugOrbit
-	Pee
+	Pee (CS)
 	Up And Down
 	BoxESP
+ 	Wall Walk
+  	LongArms
+   	Sticky Platforms
+    	Invis Platforms
+     	Pee
 
 # WE ARE NOT RESPONIBLE FOR ANY BANS, USE AT YOUR OWN RISK!
