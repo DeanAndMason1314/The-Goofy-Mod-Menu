@@ -22,8 +22,8 @@ The most goofiest mod menu
 	BoxESP
  	Wall Walk
   	LongArms
-   	Sticky Platforms
-    	Invis Platforms
-     	Pee
+	Sticky Platforms
+	Invis Platforms
+	Pee
 
 # WE ARE NOT RESPONIBLE FOR ANY BANS, USE AT YOUR OWN RISK!
